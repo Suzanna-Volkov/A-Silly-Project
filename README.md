@@ -1,5 +1,5 @@
 # A Silly Project
-This is a silly little project made for refreshing my Angular skills. 
+This is a silly little project made for refreshing my Angular skills. The project uses the TheCatAPI and the TheDogAPI for retrieving images of different cats and dogs. 
 
 The project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
