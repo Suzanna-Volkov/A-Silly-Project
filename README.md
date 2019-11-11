@@ -1,5 +1,5 @@
 # A Silly Project
-This is a silly little project made for refreshing my Angular skills. The project uses the TheCatAPI and the TheDogAPI for retrieving images of different cats and dogs. 
+This is a silly little project made for refreshing my Angular skills. The project uses the TheCatAPI and the TheDogAPI for retrieving images of different cats and dogs. The application have been deployed to heroku: https://a-silly-app.herokuapp.com/
 
 ## Angular CLI
 
@@ -7,7 +7,7 @@ The project was generated with [Angular CLI](https://github.com/angular/angular-
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Run `node server.js` for a dev server. Navigate to `http://localhost:8080/`. Remember, that the project needs to be build first.
 
 ## Code scaffolding
 
